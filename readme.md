@@ -7,7 +7,7 @@ Equipo docente 🧑‍🏫:
 - Profesores: [Andrés Abeliuk](https://aabeliuk.github.io/), [Fabián Villena](https://fabianvillena.cl/).
 - Profesor Auxiliar:
 
-##  Reglas del curso 🖋️
+##  Reglas del curso
 
 - Curso online. Todas las cátedras seran tutoriales sobre el Procesamiento de Lenguaje Natural.
 - Cada clase constara de tres partes: una teoríca, un práctica y una de trabajo personal.
@@ -15,7 +15,7 @@ Equipo docente 🧑‍🏫:
 - Como en un entorno real, la colaboración es fundamental para resolver problemas. Por lo mismo, todas las evaluaciones serán grupales.
 - El objetivo es que aprendan a medida que implementan. Por lo mismo, está prohibida la copia.
 
-## Canales de comunicación 📞
+## Canales de comunicación 
 
 - Foro de ucursos para cualquier duda de los contenidos del curso y administrativas. Todos los mails con consultas al equipo docente serán redirigidos al foro. Idea detrás de esto: La colaboración entre equipos.
 - Github: materia práctico del módulo, laboratorios, tutoriales y tareas.
