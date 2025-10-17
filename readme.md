@@ -5,7 +5,7 @@ Repositorio del modulo de Procesamiento de Lenguaje Natural del Diplomado en Int
 Equipo docente 🧑‍🏫:
 
 - Profesores: [Andrés Abeliuk](https://aabeliuk.github.io/), [Fabián Villena](https://fabianvillena.cl/).
-- Profesor Auxiliar:
+- Profesor Auxiliar: Martin Paredes
 
 ##  Reglas del curso
 
