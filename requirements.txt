@@ -1,0 +1,15 @@
+jupyter
+datasets<3.0
+pandas
+spacy
+tokenizers
+nltk
+matplotlib
+wordcloud
+scikit-learn
+plotly
+gensim
+scipy==1.12
+dspy
+pydantic
+faiss-cpu
