@@ -1,11 +1,11 @@
-# CC66Q - Primavera 2025 🍃
+# CC66Q - Primavera 2026 🍃
 
 Repositorio del modulo de Procesamiento de Lenguaje Natural del Diplomado en Inteligencia Artificial del Departamento en Ciencias de la Computación de la Universidad de Chile
 
 Equipo docente 🧑‍🏫:
 
-- Profesores: [Andrés Abeliuk](https://aabeliuk.github.io/), [Fabián Villena](https://fabianvillena.cl/).
-- Profesor Auxiliar: Martin Paredes
+- Profesores: [Andrés Abeliuk](https://aabeliuk.github.io/), [Fabrizzio Pezzolla](https://www.linkedin.com/in/fabrizzio-pezzolla/).
+- Profesor Auxiliar: Rodrigo Molina
 
 ##  Reglas del curso
 
