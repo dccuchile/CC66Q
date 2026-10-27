@@ -1,6 +1,6 @@
 # CC66Q - Primavera 2026 🍃
 
-Repositorio del modulo de Procesamiento de Lenguaje Natural del Diplomado en Inteligencia Artificial del Departamento en Ciencias de la Computación de la Universidad de Chile
+Repositorio del modulo de Procesamiento de Lenguaje Natural del Diplomado en Inteligencia Artificial del Departamento en Ciencias de la Computación de la Universidad de Chile.
 
 Equipo docente 🧑‍🏫:
 
