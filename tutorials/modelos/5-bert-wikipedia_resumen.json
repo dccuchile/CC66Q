@@ -1,0 +1,23 @@
+{
+ "epochs": 1,
+ "pasos": 90011,
+ "pasos_por_epoch": 90011,
+ "ventanas": 5760739,
+ "minutos": 138.6,
+ "tokens_vistos": 1474740224,
+ "tokens_por_segundo": 177322,
+ "tokens_de_entreno": 1474749380,
+ "parametros": 17030400,
+ "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
+ "config": {
+  "n_tokens": 16384,
+  "dim": 384,
+  "n_cabezas": 6,
+  "n_capas": 6,
+  "contexto": 256,
+  "causal": false
+ },
+ "objetivo": "tapada",
+ "tamano_lote": 64,
+ "tasa_maxima": 0.001
+}
