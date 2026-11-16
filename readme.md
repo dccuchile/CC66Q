@@ -24,9 +24,9 @@ Equipo docente 🧑‍🏫:
 
 | Tarea | Notebook |
 |:-:|---|
-| 1 | [tarea1.ipynb](Tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/Tareas/tarea1.ipynb) |
-| 2 | [tarea2.ipynb](Tareas/tarea2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/Tareas/tarea2.ipynb) |
-| 3 | [tarea3.ipynb](Tareas/tarea3.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/Tareas/tarea3.ipynb) |
+| 1 | [tarea1.ipynb](tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea1.ipynb) |
+| 2 | [tarea2.ipynb](tareas/tarea2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea2.ipynb) |
+| 3 | [tarea3.ipynb](tareas/tarea3.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea3.ipynb) |
 
 ##  Reglas del curso
 
