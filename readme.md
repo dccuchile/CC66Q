@@ -13,6 +13,12 @@ Equipo docente 🧑‍🏫:
 |:-:|---|---|---|
 | 1 | Introducción al NLP, preprocesamiento y exploración de texto | [PDF](slides/1%20-%20introduccion.pdf) | [1.1-preprocesamiento](tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.2-exploracion.ipynb) |
 
+### Tareas 📝
+
+| Tarea | Notebook |
+|:-:|---|
+| 1 | [tarea1.ipynb](tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea1.ipynb) |
+
 ### Versiones anteriores
 
 Sección 1 (Primavera 2026), en [`versiones-anteriores/primavera2026-1`](versiones-anteriores/primavera2026-1).
@@ -28,13 +34,11 @@ Sección 1 (Primavera 2026), en [`versiones-anteriores/primavera2026-1`](version
 | 7 | Cuantización y fine-tuning eficiente (LoRA, QLoRA) | [PDF](versiones-anteriores/primavera2026-1/slides/7%20-%20cuantizacion_y_fine_tuning.pdf) | [7-qlora](versiones-anteriores/primavera2026-1/tutorials/7-qlora.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/versiones-anteriores/primavera2026-1/tutorials/7-qlora.ipynb) |
 | 8 | Aprendizaje por refuerzo y alineamiento: RLHF, PPO, DPO, GRPO | [PDF](versiones-anteriores/primavera2026-1/slides/8%20-%20aprendizaje_por_refuerzo.pdf) | [8-rl](versiones-anteriores/primavera2026-1/tutorials/8-rl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/versiones-anteriores/primavera2026-1/tutorials/8-rl.ipynb) |
 
-### Tareas 📝
-
 | Tarea | Notebook |
 |:-:|---|
-| 1 | [tarea1.ipynb](tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea1.ipynb) |
-| 2 | [tarea2.ipynb](tareas/tarea2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea2.ipynb) |
-| 3 | [tarea3.ipynb](tareas/tarea3.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea3.ipynb) |
+| 1 | [tarea1.ipynb](versiones-anteriores/primavera2026-1/tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/versiones-anteriores/primavera2026-1/tareas/tarea1.ipynb) |
+| 2 | [tarea2.ipynb](versiones-anteriores/primavera2026-1/tareas/tarea2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/versiones-anteriores/primavera2026-1/tareas/tarea2.ipynb) |
+| 3 | [tarea3.ipynb](versiones-anteriores/primavera2026-1/tareas/tarea3.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/versiones-anteriores/primavera2026-1/tareas/tarea3.ipynb) |
 
 ##  Reglas del curso
 
