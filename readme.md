@@ -11,7 +11,7 @@ Equipo docente 🧑‍🏫:
 
 | Clase | Tema | Slides | Tutoriales |
 |:-:|---|---|---|
-| 1 | Introducción al NLP, preprocesamiento y exploración de texto | [PDF](slides/1%20-%20NLP_Intro.pdf) | [1.1-preprocesamiento](tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.2-exploracion.ipynb) |
+| 1 | Introducción al NLP, preprocesamiento y exploración de texto | [Sección 1](primavera2026-1/slides/1%20-%20NLP_Intro.pdf)<br>[Sección 2](primavera2026-2/slides/1%20-%20introduccion.pdf) | **Sección 1**<br>[1.1-preprocesamiento](primavera2026-1/tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/primavera2026-1/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](primavera2026-1/tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/primavera2026-1/tutorials/1.2-exploracion.ipynb)<br>**Sección 2**<br>[1.1-preprocesamiento](primavera2026-2/tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/primavera2026-2/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](primavera2026-2/tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/primavera2026-2/tutorials/1.2-exploracion.ipynb) |
 | 2 | Semántica vectorial: bolsa de palabras, TF-IDF, similitud | [PDF](slides/2%20-%20semantica_vectorial.pdf) | [2-vectorizadores](tutorials/2-vectorizadores.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/2-vectorizadores.ipynb) |
 | 3 | Word embeddings: word2vec, GloVe, FastText | [PDF](slides/3%20-%20word_embeddings.pdf) | [3-word_embeddings](tutorials/3-word_embeddings.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/3-word_embeddings.ipynb) |
 | 4 | Deep learning y redes neuronales recurrentes (RNN, LSTM, GRU) | [PDF](slides/4%20-%20redes_recurrentes.pdf) | [4-rnn](tutorials/4-rnn.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/4-rnn.ipynb) |
@@ -19,14 +19,6 @@ Equipo docente 🧑‍🏫:
 | 6 | Grandes modelos de lenguaje: prompting, decodificación, zero/few-shot | [PDF](slides/6%20-%20llms.pdf) | [6-llms](tutorials/6-llms.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/6-llms.ipynb) |
 | 7 | Cuantización y fine-tuning eficiente (LoRA, QLoRA) | [PDF](slides/7%20-%20cuantizacion_y_fine_tuning.pdf) | [7-qlora](tutorials/7-qlora.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/7-qlora.ipynb) |
 | 8 | Aprendizaje por refuerzo y alineamiento: RLHF, PPO, DPO, GRPO | [PDF](slides/8%20-%20aprendizaje_por_refuerzo.pdf) | [8-rl](tutorials/8-rl.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/8-rl.ipynb) |
-
-### Sección 2
-
-La Sección 2 tiene su propia versión de la clase 1, en la carpeta [`seccion2`](seccion2).
-
-| Clase | Tema | Slides | Tutoriales |
-|:-:|---|---|---|
-| 1 | Introducción al NLP, preprocesamiento y exploración de texto | [PDF](seccion2/slides/1%20-%20introduccion.pdf) | [1.1-preprocesamiento](seccion2/tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/seccion2/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](seccion2/tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/seccion2/tutorials/1.2-exploracion.ipynb) |
 
 ### Tareas 📝
 
