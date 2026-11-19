@@ -12,6 +12,7 @@ Equipo docente 🧑‍🏫:
 | Clase | Tema | Slides | Tutoriales |
 |:-:|---|---|---|
 | 1 | Introducción al NLP, preprocesamiento y exploración de texto | [PDF](slides/1%20-%20introduccion.pdf) | [1.1-preprocesamiento](tutorials/1.1-preprocesamiento.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.1-preprocesamiento.ipynb)<br>[1.2-exploracion](tutorials/1.2-exploracion.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/1.2-exploracion.ipynb) |
+| 2 | Semántica vectorial: semántica distribucional, bolsa de palabras, TF-IDF, LSA | [PDF](slides/2%20-%20semantica_vectorial.pdf) | [2-semantica_vectorial](tutorials/2-semantica_vectorial.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/2-semantica_vectorial.ipynb) |
 
 ### Tareas 📝
 
