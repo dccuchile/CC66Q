@@ -15,13 +15,14 @@ Equipo docente 🧑‍🏫:
 | 2 | Semántica vectorial: semántica distribucional, bolsa de palabras, TF-IDF, LSA | [PDF](slides/2%20-%20semantica_vectorial.pdf) | [2-semantica_vectorial](tutorials/2-semantica_vectorial.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/2-semantica_vectorial.ipynb) |
 | 3 | Word embeddings: word2vec (skip-gram y CBOW), analogías, sesgos, fastText | [PDF](slides/3%20-%20word_embeddings.pdf) | [3-word_embeddings](tutorials/3-word_embeddings.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/3-word_embeddings.ipynb) |
 | 4 | Redes neuronales recurrentes: GRU y LSTM, reconocimiento de entidades, encoder–decoder | [PDF](slides/4%20-%20redes_recurrentes.pdf) | [4-rnn](tutorials/4-rnn.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/4-rnn.ipynb) |
-| 5 | Transformers: atención, multi-head attention, GPT y BERT | [PDF](slides/5%20-%20transformers.pdf) | [5-transformers](tutorials/5-transformers.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/5-transformers.ipynb) |
+| 5 | Transformers: atención, multi-head attention, GPT y BERT | [PDF](slides/5%20-%20transformers.pdf) | [5-transformers](tutorials/5-transformers.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/5-transformers.ipynb)<br>[5.2-Bertopic](tutorials/5.2-Bertopic.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tutorials/5.2-Bertopic.ipynb) |
 
 ### Tareas 📝
 
 | Tarea | Notebook |
 |:-:|---|
 | 1 | [tarea1.ipynb](tareas/tarea1.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea1.ipynb) |
+| 2 | [tarea2.ipynb](tareas/tarea2.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dccuchile/CC66Q/blob/main/tareas/tarea2.ipynb) |
 
 ### Versiones anteriores
 
